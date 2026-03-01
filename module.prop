@@ -1,0 +1,6 @@
+id=rustore-apk-autoinstall
+name=RuStore APK AutoInstall
+version=1.0.0
+versionCode=1
+author=fariarx
+description=Install/update APK from RuStore apkStorage ZIP by Magisk Action button. Repo: https://github.com/Fariarx/RuStoreAutoinstall

@@ -1,0 +1,6 @@
+id=rustore-apk-autowatch
+name=RuStore APK AutoWatch
+version=1.0.0
+versionCode=1
+author=fariarx
+description=Inotify watch for RuStore apkStorage ZIP with auto-install and notifications. Repo: https://github.com/Fariarx/RuStoreAutoinstall
