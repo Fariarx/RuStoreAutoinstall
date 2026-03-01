@@ -26,6 +26,8 @@ Repository: https://github.com/Fariarx/RuStoreAutoinstall
 5. Запустить скрипт через Magisk, через кнопку Action.
 6. Откроется лог выполнения установки.
 
+* Пока только ручной запуск, сервис реализован, но ненадёжен. Доработаю если будет желание. 
+
 ![scr1](screenshots/photo_2026-03-01_17-17-06.jpg)
 ![scr3](screenshots/photo_2026-03-01_17-17-18.jpg)
 ![scr3](screenshots/photo_2026-03-01_17-17-22.jpg)
